@@ -46,7 +46,8 @@
   padding: 15px;
   border-radius: 25px;
   font-size: 25px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
+  margin-top: -30px;
 }
 
 .message-row {
@@ -79,6 +80,7 @@
   border-radius: 20px;
   border-top-left-radius: 0px;
   margin-right: 5px;
+  width: 70%;
 }
 
 .message__time {
